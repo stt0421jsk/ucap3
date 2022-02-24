@@ -1,0 +1,15 @@
+/Volumes/T7/Programming/CSC3/bin/Debug/net5.0/CSC3.deps.json
+/Volumes/T7/Programming/CSC3/bin/Debug/net5.0/CSC3.runtimeconfig.json
+/Volumes/T7/Programming/CSC3/bin/Debug/net5.0/CSC3.runtimeconfig.dev.json
+/Volumes/T7/Programming/CSC3/bin/Debug/net5.0/CSC3.dll
+/Volumes/T7/Programming/CSC3/bin/Debug/net5.0/ref/CSC3.dll
+/Volumes/T7/Programming/CSC3/bin/Debug/net5.0/CSC3.pdb
+/Volumes/T7/Programming/CSC3/obj/Debug/net5.0/CSC3.csproj.AssemblyReference.cache
+/Volumes/T7/Programming/CSC3/obj/Debug/net5.0/CSC3.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/T7/Programming/CSC3/obj/Debug/net5.0/CSC3.AssemblyInfoInputs.cache
+/Volumes/T7/Programming/CSC3/obj/Debug/net5.0/CSC3.AssemblyInfo.cs
+/Volumes/T7/Programming/CSC3/obj/Debug/net5.0/CSC3.csproj.CoreCompileInputs.cache
+/Volumes/T7/Programming/CSC3/obj/Debug/net5.0/CSC3.dll
+/Volumes/T7/Programming/CSC3/obj/Debug/net5.0/ref/CSC3.dll
+/Volumes/T7/Programming/CSC3/obj/Debug/net5.0/CSC3.pdb
+/Volumes/T7/Programming/CSC3/obj/Debug/net5.0/CSC3.genruntimeconfig.cache
